@@ -1,0 +1,13 @@
+Objective:
+To perform classification of approximately 261000 questions asked on a well known public form using Deep Neural Networks such as RNN/CNN/BERT/LSTM as 'irrelevant/inappropriate' questions or 'relevant/appropriate' questions. You can also use 'attention' mechanism to improve the performance of your model.
+
+At the end of this competition, you will be able to:
+
+Load the Questions Dataset (train and test) and perform the pre-processing steps.
+Build an RNN (Long Short Term Memory/Gated Recurrent Unit) or a Convolutional Neural Network (CNN) or BERT (with/without 'attention') using either Keras or PyTorch deep learning libraries and perform classification of approximately 261000 questions asked on a well known public form as 'irrelevant/inappropriate' questions or 'relevant/appropriate' questions .
+Evaluate the performance of your model using F1 score as the metric.
+In today's world of information, it is imperative for any major website today handle irrelevant/inappropriate content which may not be suitable for viewers. A well known public forum which allows questions to be asked by users, wants to solve this problem to keep their platform a safe place for users in order to share their knowledge with other users in the world.
+
+There are many forums that allow people to ask questions and learn from each other. On one such platform, people can ask questions and connect with others who contribute unique insights and quality answers. A key challenge is to weed out irrelevant/inappropriate questions, or those questions founded upon false premises, or that intend to make a statement rather than look for helpful answers.
+
+In this competition, you are expected to develop models that identify and flag such irrelevant/inappropriate questions. You are challenged to see if you can develop more scalable methods to detect irrelevant/inappropriate questions.
